@@ -47,7 +47,7 @@ This Telegram bot identifies hate speech in messages and responds accordingly. I
 4. Run the bot:
 
    ```bash
-   python bot.py
+   python detector_bot.py
    ```
 
 ## Usage
